@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727756572809",
+    "project_id": "itnetwork-65630",
+    "storage_bucket": "itnetwork-65630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727756572809:android:d9e07c3db5d7ed19159e58",
+        "android_client_info": {
+          "package_name": "com.skyfall.itnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727756572809-a83rk1rinvc5lbj5hkdcaq745kp88ud0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5US7vOi3bFjU0OT_4GvzPSPezjjYYbgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727756572809-a83rk1rinvc5lbj5hkdcaq745kp88ud0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
